@@ -3,7 +3,7 @@ This script is designed to delete the local users based on user input
 
 ## Description
 The script does as follows:
- 1.Sets the adminstrator account as enviornmnetal variable to avoid accidental deletion by other users and stores it in a variable
+ 1.Sets the adminstrator account as enviornmnetal variable to avoid accidental deletion by other users and stores it in a variable /n
  2.Ask for user to enter 'y' to see active users and if user enters anything else, asks again to enter y
  3.Assign a variable to store all active users and then display it 
  4.Then, the second prompt asks for the name of the user to be deleted or an option to exit the script
